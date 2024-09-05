@@ -1,13 +1,21 @@
 ## What I did this week...
-**1. Set up Ultimaker 3 and Form 3**
+**1. Set up Ultimaker 3 and Form 3**\
 The last time I used a 3d printer was 5+ years ago. So it's great to go through all the instructions again. Also, now the 3d printers are better and more materials are available.
 
-**2. Check out Rhino and Grasshopper example files**
+**2. Check out Rhino and Grasshopper example files**\
 I was a landscape architect, so I have been working with these two tools for half of my lifetime.
+
+**3. 3D Print out something**\
+I randomly chose to print an egg separator (and also very useful in the kitchen!). Because of the time, I downloaded a .stl file from the Internet and made the 3D printing file. The printing is still in progress, I will add images to this report if it finishes before 3 pm.
+
+I found many websites have free 3d printing-ready models for downloading.\
+[Cults](https://cults3d.com/en)
+
 
 
 ## What I thought about this week...
-A phone stand... That's a tiny thing, how can I be more innovative with a very limited time?
+A phone stand... That's a tiny thing, and there are more than many well-made products on the market. How can I be more innovative with a very limited time?
+
 **Adding**
 1. Phone stand + speaker?
 2. Phone stand attaches to iPad, laptop, or monitor.
@@ -15,11 +23,24 @@ A phone stand... That's a tiny thing, how can I be more innovative with a very l
 
 **Minimizing**
 1. Ultra thing and portable phone stand.
-2. A magnetic phone stand to be stuck on surfaces. For example, street poles.
+2. Foldable phone stand.
+3. A magnetic phone stand to be stuck on surfaces. For example, street poles.
 
 **Manifesto**
-1. When people need a phone stand, their hands are occupied, but they need to look at the phone. What if my phone stand is not designed for people to ***LOOK at the phone ALL THE TIME***? but to be away from the phone?
+1. When people need a cell phone stand, their hands are occupied, but they need to look at the phone. What if my phone stand is ***NOT*** designed for people to ***look at the phone ALL THE TIME***? but to be away from the cell phone?
 2. A bulky phone stand, and not portable at all.
 3. A phone stand for ***PHONE***, instead of cell phones.
 
-![Screenshot of a comment on a GitHub issue showing an image, added in the Markdown, of an Octocat smiling and raising a tentacle.](https://myoctocat.com/assets/images/base-octocat.svg)
+Reference images:
+
+
+## Lessons learned...
+1. The self serviced 3d printing(aka UberEats of 3D printing) is convenient, but not many machines are available! I haven't figured out how to queue yet... Probably it's not allowed. So next time leave at least 2 days for that.
+
+
+## Other things I found that are related...
+["Innovative" rediscovery of landline phone](https://www.tiktok.com/@weirdochicken/video/7204142032053488942?lang=en)
+
+
+
+
