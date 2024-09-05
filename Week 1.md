@@ -7,6 +7,7 @@ I was a landscape architect, so I have been working with these two tools for hal
 
 **3. 3D Print out something**\
 I randomly chose to print an egg separator (and also very useful in the kitchen!). Because of the time, I downloaded a .stl file from the Internet and made the 3D printing file. The printing is still in progress, I will add images to this report if it finishes before 3 pm.
+![Screenshot of Rhino](/Week1/Egg.jpg)
 
 I found many websites have free 3d printing-ready models for downloading.\
 [Cults](https://cults3d.com/en)
