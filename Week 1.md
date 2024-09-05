@@ -21,6 +21,11 @@ A phone stand... That's a tiny thing, and there are more than many well-made pro
 2. Phone stand attaches to iPad, laptop, or monitor.
 3. Phone stand + selfie taker.
 
+Reference images:/
+![phone with ramen bowl](/Week1/iphonebowl01.jpg)
+
+![phone with bed](/Week1/bed phone stand.jpg)
+
 **Minimizing**
 1. Ultra thing and portable phone stand.
 2. Foldable phone stand.
@@ -28,8 +33,10 @@ A phone stand... That's a tiny thing, and there are more than many well-made pro
 
 **Manifesto**
 1. When people need a cell phone stand, their hands are occupied, but they need to look at the phone. What if my phone stand is ***NOT*** designed for people to ***look at the phone ALL THE TIME***? but to be away from the cell phone?
-2. A bulky phone stand, and not portable at all.
-3. A phone stand for ***PHONE***, instead of cell phones.
+![people using phone or phone using...?](/Week1/ramen-bowl-with-chopsticks-through-mobile-phone-.jpg)
+   
+3. A bulky phone stand, and not portable at all.
+4. A phone stand for ***PHONE***, instead of cell phones.
 
 Reference images:
 ![test](/Week1/1.jpg)
