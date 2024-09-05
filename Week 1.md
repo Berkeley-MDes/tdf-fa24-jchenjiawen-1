@@ -21,10 +21,10 @@ A phone stand... That's a tiny thing, and there are more than many well-made pro
 2. Phone stand attaches to iPad, laptop, or monitor.
 3. Phone stand + selfie taker.
 
-Reference images:/
+Reference images:\
 ![phone with ramen bowl](/Week1/iphonebowl01.jpg)
 
-![phone with bed](/Week1/bed phone stand.jpg)
+![phone with bed](/Week1/bed-phone-stand.jpg)
 
 **Minimizing**
 1. Ultra thing and portable phone stand.
