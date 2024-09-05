@@ -32,13 +32,20 @@ A phone stand... That's a tiny thing, and there are more than many well-made pro
 3. A phone stand for ***PHONE***, instead of cell phones.
 
 Reference images:
+![test](/Week1/1.jpg)
 
+![test](/Week1/s-l650.jpg)
+
+![test](/Week1/antique-phone-linda-covino.jpg)
+
+![test](/Week1/Actor_portraying_Alexander_Graham_Bell_in_an_AT&T_promotional_film_(1926).jpg)
 
 ## Lessons learned...
 1. The self serviced 3d printing(aka UberEats of 3D printing) is convenient, but not many machines are available! I haven't figured out how to queue yet... Probably it's not allowed. So next time leave at least 2 days for that.
+2. Github markdown is not user-friendly. Adding an image and video is inhumane...
 
 
-## Other things I found that are related...
+## Other things I found may be related...
 ["Innovative" rediscovery of landline phone](https://www.tiktok.com/@weirdochicken/video/7204142032053488942?lang=en)
 
 
