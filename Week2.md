@@ -7,7 +7,7 @@
 <img src="/Week2/9.jpg" width = "500"></img>
 
 3. When it's too small, there is a gravity problem.\
-4. The smallest shape I found is as below.
+4. The smallest shape I found is as below.\
 <img src="/Week2/7.jpg" width = "500"></img>
 
 ### Using the sample file to generate a new design
