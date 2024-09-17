@@ -1,5 +1,5 @@
 ## What I did this week
-### Grasshopper for the first project
+### Design system
 For assignment 1, I'm thinking of designing a system that helps every unique hand use a regular pen. It's a pen grip that transfers the dimension of the hand, including length, width, and gripping strength into Grasshopper parameters. I’d like to use 3d printing for prototyping and iteration.
 I referenced an online tutorial when I encountered difficulty in making the triangular polyhedron.  
 <img src="/Week3/diagram.png" width ="1000" align="center">
