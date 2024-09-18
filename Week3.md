@@ -21,7 +21,9 @@ I hope to tell a story with my video, so I started with why I have this idea and
 <img src="/Week3/video.jpg" width ="500" align="center">
 
 ## What I thought about this week
-I wish I had more time for research. I believe parametric design, or computational design relies heavily on research works. How to define the criteria? How to transfer them into parametrics? But with a very limited time, I almost had to skip the research part and get straight into design/production. So the system includes a lot of guessing and eyeballing. I think my quick test is enough to show the idea, but a deeper understanding of the ergonomics of hands is required to make a practical design system.
+1. I wish I had more time for research. I believe parametric design, or computational design relies heavily on research works. How to define the criteria? How to transfer them into parametrics? But with a very limited time, I almost had to skip the research part and get straight into design/production. So the system includes a lot of guessing and eyeballing. I think my quick test is enough to show the idea, but a deeper understanding of the ergonomics of hands is required to make a practical design system.
+2. The cleaning after using Form 3 (or other resin printers) could take long.
+3. It's normal to take 2-3 rounds until get a successful printouts/prototype.
 
 
 ## Speculation of next week
