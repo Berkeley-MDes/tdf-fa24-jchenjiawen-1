@@ -1,41 +1,70 @@
-# Hello DES INV 202 Student!
-Welcome to your new GitHub repository! 
-
 # Outline
-[week 1](README.md#week-1-example-report-1)
+[week 1](README.md#Week-1)
 
 week 2, etc...
 
 ---
 
-# Github Background Information & Context
-If you’re new to GitHub, you can think of this as a shared file space (like a Google Drive folder, or a like a USB drive that’s hosted online.) 
+# Week 1#
+## What I did this week...
+**1. Set up Ultimaker 3 and Form 3**\
+The last time I used a 3d printer was 5+ years ago. So it's great to go through all the instructions again. Also, now the 3d printers are better and more materials are available.
 
-This is your space to store project files, videos, PDFs, notes, images, etc., and (hopefully, neatly) organize so it's easy for viewers (and you!) to navigate. That said, it’s super easy for you to share any file or folder with us (your TDF instructional team) - just send us the link!  As a start, feel free to simply add images to the `/assets` folder, which is located [here](/assets). 
+**2. Check out Rhino and Grasshopper example files**\
+I was a landscape architect, so I have been working with these two tools for half of my lifetime.
 
-The specific file that I’m typing into right now is the **README.md** for this repo. 
-##### (💡 TIP: The .md indicates that we’re using [Markdown formatting.](https://www.markdownguide.org/cheat-sheet/)) #####
-<h6> (💡 TIP 2: GitHub Markdown supports <a href="https://gist.github.com/seanh/13a93686bf4c2cb16e658b3cf96807f2"> <em>HTML formatting</em> too, including emojis 😄</a>, in case that helps!) </h6>
+**3. 3D Print out something**\
+I randomly chose to print an egg separator (and also very useful in the kitchen!). Because of the time, I downloaded a .stl file from the Internet and made the 3D printing file. The printing is still in progress, I will add images to this report if it finishes before 3 pm.
+![Screenshot of Rhino](/Week1/Egg.jpg)
 
-### :star: Whatever you write in your **README.md** will show up on the “front page” of your GitHub repo. This is where we’ll be looking for your [weekly progress reports](https://github.com/Berkeley-MDes/24f-desinv-202/wiki/3.0-Weekly-Submissions#weekly-progress-report). They might look something like this: ###
+I found many websites have free 3d printing-ready models for downloading.\
+[Cults](https://cults3d.com/en)
 
-# Week 1: Example Report 1 #
-## Week of 09/05/2024
 
-This week, I designed a cool phone stand made of rocks. Check out all my cool sketches and progress photos from this week below, etc., etc....
 
-<img width="200" alt="Cool Phone Stand made of rocks" src="assets/exampleimg.png">
+## What I thought about this week...
+A phone stand... That's a tiny thing, and there are more than many well-made products on the market. How can I be more innovative with a very limited time?
 
----
+**Adding**
+1. Phone stand + speaker?
+2. Phone stand attaches to iPad, laptop, or monitor.
+3. Phone stand + selfie taker.
 
-It's time to start making this space your own! If you want to save these instructions, make a copy.  Also, feel empowered to delete everything in this README.md and start documenting! 
+Reference images:\
+![phone with ramen bowl](/Week1/iphonebowl01.jpg)
 
-Excited to work with you,
-your TDF teaching team
+![phone with bed](/Week1/bed-phone-stand.jpg)
 
-PS: let us know if you have any questions!!
+**Minimizing**
+1. Ultra thing and portable phone stand.
+2. Foldable phone stand.
+3. A magnetic phone stand to be stuck on surfaces. For example, street poles.
 
-PPS: 
+**Manifesto**
+1. When people need a cell phone stand, their hands are occupied, but they need to look at the phone. What if my phone stand is ***NOT*** designed for people to ***look at the phone ALL THE TIME***? but to be away from the cell phone?
+![people using phone or phone using...?](/Week1/ramen-bowl-with-chopsticks-through-mobile-phone-.jpg)
+   
+3. A bulky phone stand, and not portable at all.
+4. A phone stand for ***PHONE***, instead of cell phones.
+
+Reference images:
+![test](/Week1/1.jpg)
+
+![test](/Week1/s-l650.jpg)
+
+![test](/Week1/antique-phone-linda-covino.jpg)
+
+![test](/Week1/Actor_portraying_Alexander_Graham_Bell_in_an_AT&T_promotional_film_(1926).jpg)
+
+## Lessons learned...
+1. The self serviced 3d printing(aka UberEats of 3D printing) is convenient, but not many machines are available! I haven't figured out how to queue yet... Probably it's not allowed. So next time leave at least 2 days for that.
+2. Github markdown is not user-friendly. Adding an image and video is inhumane...
+
+
+## Other things I found may be related...
+["Innovative" rediscovery of landline phone](https://www.tiktok.com/@weirdochicken/video/7204142032053488942?lang=en)
+
+
 
 ## Quick Links, compiled here for your convenience: ##
 
