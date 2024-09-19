@@ -2,11 +2,89 @@
 [week 1](README.md#Week-1)
 
 [week 2](README.md#Week-2)
+
 [week 3](README.md#Week-3)
 
 ---
+# Week 3
+## What I did this week
+### Design system
+For assignment 1, I'm thinking of designing a system that helps every unique hand use a regular pen. It's a pen grip that transfers the dimension of the hand, including length, width, and gripping strength into Grasshopper parameters. I’d like to use 3d printing for prototyping and iteration.
+I referenced an online tutorial when I encountered difficulty in making the triangular polyhedron.  
+<img src="/Week3/diagram.png" width ="1000" align="center">
 
-# Week 1#
+
+### 3D printing
+I 3d printed 3 times this week...
+The first was supposed to be a draft model with PLA. However, the reference I used was in the wrong units. Therefore the printouts are huge and not usable at all.\
+<img src="/Week3/IMG_1920.jpg" width ="500" align="center">
+
+Then I scaled it to the right size and tried with another material - flexible resin. For my design, it would be good if the pen grip is somewhat elastic. I used the Form 3 printer in the Advanced Lab, and this is the first time I have worked with this kind of printer. But this attempt was not that successful either, because I put too many support materials on a tiny object.
+Informed by these two attempts, the third one was successful. \
+<img src="/Week3/IMG_1924.jpg" width ="500" align="center">
+<img src="/Week3/IMG_1949.jpg" width ="500" align="center">
+
+
+### Video making
+I hope to tell a story with my video, so I started with why I have this idea and documented all of my efforts, including the failures. 
+<img src="/Week3/video.jpg" width ="500" align="center">
+
+## What I thought about this week
+1. I wish I had more time for research. I believe parametric design, or computational design relies heavily on research works. How to define the criteria? How to transfer them into parametrics? But with a very limited time, I almost had to skip the research part and get straight into design/production. So the system includes a lot of guessing and eyeballing. I think my quick test is enough to show the idea, but a deeper understanding of the ergonomics of hands is required to make a practical design system.
+2. The cleaning after using Form 3 (or other resin printers) could take long.
+3. It's normal to take 2-3 rounds until get a successful printouts/prototype.
+
+
+## Speculation of next week
+I will finalized the video and write the project report for this assignment.
+
+
+# Week 2
+## What I did
+### Sample file experiments
+1. I read through the sample grasshopper file and drew a diagram of my understanding of how it works.\
+   <img src="/Week2/0906 - Example GH Diagram.jpg"></img>
+   
+2. I tweaked some of the parameters. The major intention was to find the minimum size of the sample design that could still meet the manufacturing standard.\
+<img src="/Week2/9.jpg" width = "500"></img>
+
+3. When it's too small, there is a gravity problem.
+4. The smallest shape I found is as below.\
+<img src="/Week2/7.jpg" width = "500"></img>
+
+### Using the sample file to generate a new design
+1. I tried to take a look at the packaged GH script, hoping I could understand and revise it. But unfortunately, it's too complicated for me to understand. I will just use it as it is.\
+<img src="/Week2/13.jpg" width = "800"></img>
+
+2. I wanted to try out a polyhedron phone stand. So the first step is to build a basic shape.
+3. I went with the Voronoi shape, which I was more familiar with from my previous architectural design experience.\
+<img src="/Week2/6.jpg" width = "500"></img>
+<img src="/Week2/11.gif" width = "500"></img>
+
+4. I started with importing a cube from Rhino to quickly test my script. Once the script worked, I replaced the input cube with a short script that generates a cube in GH directly.\
+<img src="/Week2/4.jpg" width = "500"></img>
+
+5. I successfully generated a polyhedron base! So I merged it back to the example file and got a cell phone stand.
+<img src="/Week2/3.jpg" width = "500"></img>
+
+6. Because Voronoi is random, most of the time the center of the generated polyhedron doesn't match with the center of the cell phone.\
+<img src="/Week2/2.jpg" width = "500"></img>
+
+7. I added a move command, now It's good enough for my little test. I named it "Obsidian".\
+<img src="/Week2/12.gif" width = "500"></img>
+<img src="/Week2/1.jpg" width = "500"></img>
+
+## What I thought about
+1. The Grasshopper script was super intricate, I'm sure I can't write it from scratch although I have some experience with it.
+2. I still like the idea of making a cell phone stand that is not for using cell phones all the time, but to reduce the usage of cell phones. But it's absolutely the opposite of what "computational design" is. Have to ditch the idea, but maybe recycle it someday.
+3. What is the best "object" to be designed through a computational process? 
+
+## Speculation of next week
+Find a suitable subject for computational design.
+
+
+
+# Week 1
 ## What I did this week...
 **1. Set up Ultimaker 3 and Form 3**\
 The last time I used a 3d printer was 5+ years ago. So it's great to go through all the instructions again. Also, now the 3d printers are better and more materials are available.
@@ -65,81 +143,6 @@ Reference images:
 ## Other things I found may be related...
 ["Innovative" rediscovery of landline phone](https://www.tiktok.com/@weirdochicken/video/7204142032053488942?lang=en)
 
-
-# Week 2 #
-## What I did
-### Sample file experiments
-1. I read through the sample grasshopper file and drew a diagram of my understanding of how it works.\
-   <img src="/Week2/0906 - Example GH Diagram.jpg"></img>
-   
-2. I tweaked some of the parameters. The major intention was to find the minimum size of the sample design that could still meet the manufacturing standard.\
-<img src="/Week2/9.jpg" width = "500"></img>
-
-3. When it's too small, there is a gravity problem.
-4. The smallest shape I found is as below.\
-<img src="/Week2/7.jpg" width = "500"></img>
-
-### Using the sample file to generate a new design
-1. I tried to take a look at the packaged GH script, hoping I could understand and revise it. But unfortunately, it's too complicated for me to understand. I will just use it as it is.\
-<img src="/Week2/13.jpg" width = "800"></img>
-
-2. I wanted to try out a polyhedron phone stand. So the first step is to build a basic shape.
-3. I went with the Voronoi shape, which I was more familiar with from my previous architectural design experience.\
-<img src="/Week2/6.jpg" width = "500"></img>
-<img src="/Week2/11.gif" width = "500"></img>
-
-4. I started with importing a cube from Rhino to quickly test my script. Once the script worked, I replaced the input cube with a short script that generates a cube in GH directly.\
-<img src="/Week2/4.jpg" width = "500"></img>
-
-5. I successfully generated a polyhedron base! So I merged it back to the example file and got a cell phone stand.
-<img src="/Week2/3.jpg" width = "500"></img>
-
-6. Because Voronoi is random, most of the time the center of the generated polyhedron doesn't match with the center of the cell phone.\
-<img src="/Week2/2.jpg" width = "500"></img>
-
-7. I added a move command, now It's good enough for my little test. I named it "Obsidian".\
-<img src="/Week2/12.gif" width = "500"></img>
-<img src="/Week2/1.jpg" width = "500"></img>
-
-## What I thought about
-1. The Grasshopper script was super intricate, I'm sure I can't write it from scratch although I have some experience with it.
-2. I still like the idea of making a cell phone stand that is not for using cell phones all the time, but to reduce the usage of cell phones. But it's absolutely the opposite of what "computational design" is. Have to ditch the idea, but maybe recycle it someday.
-3. What is the best "object" to be designed through a computational process? 
-
-## Speculation of next week
-Find a suitable subject for computational design.
-
-# Week 3#
-## What I did this week
-### Design system
-For assignment 1, I'm thinking of designing a system that helps every unique hand use a regular pen. It's a pen grip that transfers the dimension of the hand, including length, width, and gripping strength into Grasshopper parameters. I’d like to use 3d printing for prototyping and iteration.
-I referenced an online tutorial when I encountered difficulty in making the triangular polyhedron.  
-<img src="/Week3/diagram.png" width ="1000" align="center">
-
-
-### 3D printing
-I 3d printed 3 times this week...
-The first was supposed to be a draft model with PLA. However, the reference I used was in the wrong units. Therefore the printouts are huge and not usable at all.\
-<img src="/Week3/IMG_1920.jpg" width ="500" align="center">
-
-Then I scaled it to the right size and tried with another material - flexible resin. For my design, it would be good if the pen grip is somewhat elastic. I used the Form 3 printer in the Advanced Lab, and this is the first time I have worked with this kind of printer. But this attempt was not that successful either, because I put too many support materials on a tiny object.
-Informed by these two attempts, the third one was successful. \
-<img src="/Week3/IMG_1924.jpg" width ="500" align="center">
-<img src="/Week3/IMG_1949.jpg" width ="500" align="center">
-
-
-### Video making
-I hope to tell a story with my video, so I started with why I have this idea and documented all of my efforts, including the failures. 
-<img src="/Week3/video.jpg" width ="500" align="center">
-
-## What I thought about this week
-1. I wish I had more time for research. I believe parametric design, or computational design relies heavily on research works. How to define the criteria? How to transfer them into parametrics? But with a very limited time, I almost had to skip the research part and get straight into design/production. So the system includes a lot of guessing and eyeballing. I think my quick test is enough to show the idea, but a deeper understanding of the ergonomics of hands is required to make a practical design system.
-2. The cleaning after using Form 3 (or other resin printers) could take long.
-3. It's normal to take 2-3 rounds until get a successful printouts/prototype.
-
-
-## Speculation of next week
-I will finalized the video and write the project report for this assignment.
 
 
 ## Quick Links, compiled here for your convenience: ##
