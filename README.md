@@ -11,7 +11,7 @@
 # Week 4
 ## What I did this week
 1. According to the lecture on Monday, I drew a simple diagram of the trash & recycling system. It's not digital right now, but could have a great potential to be digital.
-I want to show how the "useless" materials were recycled and repurposed. In a consumer society, a large amount of waste is generated every day. Despite this, people continue to purchase new items, believing that old ones are no longer useful, and casually throw them into the trash./
+I want to show how the "useless" materials were recycled and repurposed. In a consumer society, a large amount of waste is generated every day. Despite this, people continue to purchase new items, believing that old ones are no longer useful, and casually throw them into the trash.\
 <img src="/Week4/diagram.png" width = "1000" ></img>
 
 2. I also finished the report for Project 1.
