@@ -5,7 +5,27 @@
 
 [week 3](README.md#Week-3)
 
+[week 4](README.md#Week-4)
 ---
+# Week 4
+## What I did this week
+1. According to the lecture on Monday, I drew a simple diagram of the trash & recycling system. It's not digital right now, but could have a great potential to be digital.
+I want to show how the "useless" materials were recycled and repurposed. In a consumer society, a large amount of waste is generated every day. Despite this, people continue to purchase new items, believing that old ones are no longer useful, and casually throw them into the trash./
+<img src="/Week4/diagram.png" width = "1000" ></img>
+
+2. I also finished the report for Project 1.
+3. I took a look into Photon 2. I have never used it or Arduino. 
+
+
+## What I thought about this week
+1. Capitalism created a lot of waste.
+2. There are apps like "Too Good to Go" to save food waste.
+3. Besides recycling, how can we prevent waste from being produced? 
+
+## Speculation of next week
+Learn more about Photon 2 through class and online tutorials.
+
+
 # Week 3
 ## What I did this week
 ### Design system
