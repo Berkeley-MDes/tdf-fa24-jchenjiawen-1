@@ -13,35 +13,36 @@
 # Week 5
 ## What I did this week
 ### In-class tutorial
-1. I connected the breadboard according to the fritzing, but the LED didn't light up.\
- <img src="/Week5/in-class-03-fail.HEIC" width ="500" align="center">
+1. I connected the breadboard according to the fritzing, but the LED didn't light up.
+ <img src="/Week5/in-class-03-fail.jpeg" width ="500" align="center">
  
-3. I moved the lead from D3 to D7, and it worked.\
-<img src="/Week5/in-class-03-suc.HEIC" width ="500" align="center">
+2. I moved the lead from D3 to D7, and it worked.
+<img src="/Week5/in-class-03-suc.jpeg" width ="500" align="center">
 
 ### Button send on change
-1. I connected the circuit as in the tutorial, but it didn't work at first.\
-<img src="/Week5/basic-button-soc_fail.HEIC" width ="500" align="center">
+1. I connected the circuit as in the tutorial, but it didn't work at first.
+<img src="/Week5/basic-button-soc_fail.jpeg" width ="500" align="center">
 
-3. I noticed that's because my button is 2-pin instead of 4-pin, so I fixed the connection accordingly, and it worked.\
-<img src="/Week5/basic-button-soc_suc.HEIC" width ="500" align="center">
+3. I noticed that's because my button is 2-pin instead of 4-pin, so I fixed the connection accordingly, and it worked.
+<img src="/Week5/basic-button-soc_suc.jpeg" width ="500" align="center">
 <img src="/Week5/basic-button-soc2.png" width ="500" align="center">
 
 ### FSR to LED Color
-1. It gave me a flash error, there shouldn't be any problems in the code and connection.\
+1. It gave me a flash error, there shouldn't be any problems in the code and connection.
 <img src="/Week5/flash error.png" width ="500" align="center">
-3. I Tried a few troubleshooting but none worked. Then I noticed the Photon LED light was not blinking which may be abnormal. So I unplugged and replugged the Photon. Then it flashed successfully.\
-<img src="/Week5/flash error.png" width ="500" align="center">
+3. I Tried a few troubleshooting but none worked. Then I noticed the Photon LED light was not blinking which may be abnormal. So I unplugged and replugged the Photon. Then it flashed successfully.
+<img src="/Week5/IMG_2034.gif" width ="500" align="center">
 
 ### Accelerator to Servo
-1. I connected through halfway and wasn't sure if I had the correct ADXL 362, I will check with the TA.\
-<img src="/Week5/IMG_2032.HEIC" width ="500" align="center">
+1. I connected through halfway and wasn't sure if I had the correct ADXL 362, I will check with the TA.
+<img src="/Week5/IMG_2032.jpeg" width ="500" align="center">
 
 2. I also wanted to try the potentiometer to OLED, but there is no potentiometer in my kit... I will double-check with the TA.
+3. Additionally, I don't have a JST cable that has 4 separate outputs.
 
 ### Button to LED Pulse
-1. Finally it was successful on the first try.\
-<img src="/Week5/IMG_2036.HEIC" width ="500" align="center">
+1. Finally it was successful on the first try.
+<img src="/Week5/IMG_2036.jpeg" width ="500" align="center">
 
 
 ## What I thought about this week
