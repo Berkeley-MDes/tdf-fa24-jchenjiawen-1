@@ -12,6 +12,11 @@
 ---
 # Week 5
 ## What I did this week
+### YouTube Tutorials
+Since I'm completely new to microcontrollers, I watched 2 YouTube tutorials to get some basic knowledge and revive my previous knowledge of electronic circuits.\
+[Arduino for Beginners](https://www.youtube.com/watch?v=JnJIKX5J0Cc&list=PLwWF-ICTWmB7-b9bsE3UcQzz-7ipI5tbR)\
+[Full Programming Workshop in 90 Minutes](https://www.youtube.com/watch?v=BLrHTHUjPuw&t=64s)
+
 ### In-class tutorial
 1. I connected the breadboard according to the fritzing, but the LED didn't light up.
  <img src="/Week5/in-class-03-fail.jpeg" width ="500" align="center">
