@@ -9,7 +9,40 @@
 
 [week 5](README.md#Week-5)
 
+[week 6](README.md#Week-6)
+
 ---
+# Week 6
+## What I did this week
+### Soldering
+It's my first time doing soldering in the past 10 years.\
+<img src="/Week6/IMG_2040.jpeg" width ="500" align="center">
+
+### Stemma
+1. Accelerometer and gyro. This time we didn't have a breadboard diagram for connection, but I successfully connected the components based on guessing according to the codes.(I'm pretty happy because I know very little about coding and engineering).
+<img src="/Week6/IMG_2046.jpeg" width ="800" align="center">
+
+2. However, the LED blinks too frequently and it makes me blind. So I added a delay(3000), and now it's just right.
+<img src="/Week6/3s.gif" width ="800" align="center">
+
+3. Proximity. Success on the first try.
+<img src="/Week6/proximity.png" width ="800" align="center">
+
+4. Color. Successful but I wasn't sure how to test if the sensitivity is satisfying.
+<img src="/Week6/color.png" width ="800" align="center">
+
+### Team and Draft Proposal
+I continued with my teammates for the Big Idea Contest, and we'd like to use this assignment as a feasibility test for our potential prototype for the BIC.\
+<img width="800" alt="image" src="https://github.com/user-attachments/assets/d6cf87ff-2495-4e79-ba9d-01206fb58163">
+
+## What I thought about this week
+We really have too many deadlines and housekeeping work(also for other classes). It stops me from thinking... I have less energy and time to think week by week...
+
+## Speculation of next week
+We will focus on the project and make our first trial.
+
+---
+
 # Week 5
 ## What I did this week
 ### YouTube Tutorials
@@ -56,6 +89,7 @@ I can follow the tutorial and understand the logic of the code. However, I sure 
 ## Speculation of next week
 I would like to know more about the final project of this module so that I can get more prepared.
 
+---
 
 # Week 4
 ## What I did this week
@@ -75,6 +109,7 @@ I want to show how the "useless" materials were recycled and repurposed. In a co
 ## Speculation of next week
 Learn more about Photon 2 through class and online tutorials.
 
+---
 
 # Week 3
 ## What I did this week
@@ -108,6 +143,7 @@ I hope to tell a story with my video, so I started with why I have this idea and
 ## Speculation of next week
 I will finalize the video and write the project report for this assignment.
 
+---
 
 # Week 2
 ## What I did
@@ -152,7 +188,7 @@ I will finalize the video and write the project report for this assignment.
 ## Speculation of next week
 Find a suitable subject for computational design.
 
-
+---
 
 # Week 1
 ## What I did this week...
