@@ -57,8 +57,10 @@ void loop() {
             displayIdleMessage();  // Show idle message on OLED
         }
 ```
+<img src="/Week7/IMG_2061.jpeg" width ="500" align="center">
 4. We are still waiting for the GPS to be delivered, so I cannot work on that part yet.
-5. Integrated the code with my teammate, [Tommy](https://github.com/Berkeley-MDes/tdf-fa24-TommyJing0/blob/main/Week%207.md#week-of-10142024)
+5. Integrated the code with my teammate,[Tommy](https://github.com/Berkeley-MDes/tdf-fa24-TommyJing0/blob/main/Week%207.md#week-of-10142024)
+<img src="/Week7/IMG_2066.jpeg" width ="500" align="center">
 
 ### TDF P2 - API Calls
 1. According to friends from cohort 4, we may not be able to use external API calls.
@@ -67,11 +69,11 @@ void loop() {
 
 ### TDF P2 - Prototype Design
 - **Sketch:**
-<img src="/Week7/IMG_2040.jpeg" width ="800" align="center">
+<img src="/Week7/IMG_2040.jpeg" width ="500" align="center">
 
 ### Other Related Project
-I also used the Photon in my current project for the Studio Foundations (Ambient Display). In that project, I utilized two rings of NeoPixels and programmed them to simulate sunrise and sunset.
-<img src="/Week7/IMG_2040.jpeg" width ="800" align="center">
+I also used the Photon in my current project for the Studio Foundations (Ambient Display). In that project, I utilized two rings of NeoPixels and programmed them to simulate sunrise and sunset.\
+<img src="/Week7/IMG_2078.gif" width ="300" align="center">
 
 ## What I Learned This Week
 1. I gained significant knowledge about microcontrollers and am becoming familiar with API calls, both of which I had never used before.
