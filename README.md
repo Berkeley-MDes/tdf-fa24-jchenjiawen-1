@@ -11,6 +11,76 @@
 
 [week 6](README.md#Week-6)
 
+[week 7](README.md#Week-7)
+
+---
+# Week 7
+## What I Did This Week
+
+### TDF P2 - Local Code
+1. Worked on the project design. In the past, injuries or diseases could cause impairment in vision. However, **nowadays, being visually impaired simply means: "I can't look at the screen."** This could be due to riding a scooter, having hands full, or glare from sunlight.
+2. Wrote code for haptic feedback and LED functionality.
+```
+#include "Particle.h"
+#define MOTOR_PIN D2
+void setup() {
+    // Set the motor pin to OUTPUT
+    pinMode(MOTOR_PIN, OUTPUT);
+    // Start with the motor off
+    digitalWrite(MOTOR_PIN, HIGH);
+}
+void loop() {
+    // Turn the motor on by grounding D2
+    digitalWrite(MOTOR_PIN, LOW); // Motor ON
+    delay(1000); // Motor runs for 1 second
+    // Turn the motor off by disconnecting D2 from ground
+    digitalWrite(MOTOR_PIN, HIGH); // Motor OFF
+    delay(1000); // Motor is off for 1 second
+}
+
+ // Check if arm is raised to enter listen mode
+    if (!inListenMode && magnitude > RAISE_THRESHOLD) {
+        inListenMode = true;
+        listenStartTime = millis();  // Start the listen mode timer
+        triggerMotorVibration();     // Provide feedback with two short vibrations
+        digitalWrite(LED_PIN, LOW);  // Turn on LED (active-low logic)
+        displayListenPrompt();       // Show listen prompt on OLED
+    }
+    if (inListenMode) {
+        // Check if timeout is reached to return to idle mode
+        unsigned long elapsedTime = millis() - listenStartTime;
+        int remainingDots = max(0, 5 - (elapsedTime / 1000));
+        displayCountdownDots(remainingDots);
+        if (remainingDots == 0) {
+            inListenMode = false;  // Return to idle mode
+            digitalWrite(LED_PIN, HIGH);  // Turn off LED (active-low logic)
+            displayIdleMessage();  // Show idle message on OLED
+        }
+```
+4. We are still waiting for the GPS to be delivered, so I cannot work on that part yet.
+5. Integrated the code with my teammate, [Tommy](https://github.com/Berkeley-MDes/tdf-fa24-TommyJing0/blob/main/Week%207.md#week-of-10142024)
+
+### TDF P2 - API Calls
+1. According to friends from cohort 4, we may not be able to use external API calls.
+2. I found a [Particle documentation resource](https://docs.particle.io/getting-started/integrations/google-maps/) and demonstrated that he was incorrect.
+3. I discussed with Tommy, and he worked on figuring out the Google Assistant API and ChatGPT API, and I benefited from observing his process.
+
+### TDF P2 - Prototype Design
+- **Sketch:**
+<img src="/Week7/IMG_2040.jpeg" width ="800" align="center">
+
+### Other Related Project
+I also used the Photon in my current project for the Studio Foundations (Ambient Display). In that project, I utilized two rings of NeoPixels and programmed them to simulate sunrise and sunset.
+<img src="/Week7/IMG_2040.jpeg" width ="800" align="center">
+
+## What I Learned This Week
+1. I gained significant knowledge about microcontrollers and am becoming familiar with API calls, both of which I had never used before.
+2. Collaborating with Tommy has been invaluable in understanding the practical applications of coding and API integration.
+3. I started looking at other microcontrollers.
+
+## Plans for Next Week
+Next week, we will focus on wrapping up the coding and finishing the prototype, as we plan to integrate everything into a 3D-printed wristband. Additionally, we will create a plan for the video presentation by today.
+
 ---
 # Week 6
 ## What I did this week
