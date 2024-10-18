@@ -124,7 +124,7 @@ void loop() {
 
 ### TDF P2 - Prototype Design
 - **Sketch:**
-<img src="/Week7/IMG_2040.jpeg" width ="500" align="center">
+<img src="/Week7/IMG_2080.jpeg" width ="500" align="center">
 
 ### Other Related Project
 I also used the Photon in my current project for the Studio Foundations (Ambient Display). In that project, I utilized two rings of NeoPixels and programmed them to simulate sunrise and sunset.\
@@ -132,8 +132,8 @@ I also used the Photon in my current project for the Studio Foundations (Ambient
 
 ## What I Learned This Week
 1. I gained significant knowledge about microcontrollers and am becoming familiar with API calls, both of which I had never used before.
-2. Collaborating with Tommy has been invaluable in understanding the practical applications of coding and API integration.
-3. I started looking at other microcontrollers.
+2. Learning from my peers has been invaluable in understanding the practical applications of coding and API integration.
+3. I will look at Raspberry Pi and TouchDesigner after this.
 
 ## Plans for Next Week
 Next week, we will focus on wrapping up the coding and finishing the prototype, as we plan to integrate everything into a 3D-printed wristband. Additionally, we will create a plan for the video presentation by today.
