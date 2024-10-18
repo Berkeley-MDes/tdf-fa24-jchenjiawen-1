@@ -58,7 +58,62 @@ void loop() {
         }
 ```
 <img src="/Week7/IMG_2061.jpeg" width ="500" align="center">
-4. We are still waiting for the GPS to be delivered, so I cannot work on that part yet.
+
+
+4. Wrote GPS code.
+```
+#include "Particle.h"
+#include "Adafruit_SSD1306_RK.h"
+#include <TinyGPS++.h>
+#include <Wire.h>
+
+#define SCREEN_WIDTH 128  // OLED display width, in pixels
+#define SCREEN_HEIGHT 64  // OLED display height, in pixels
+#define SCREEN_ADDRESS 0x3D  // I2C address of the OLED
+
+Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
+TinyGPSPlus gps;  // Create a TinyGPS++ object
+
+// Use Serial1 or Serial2 depending on your connection to the GPS
+#define GPS_SERIAL Serial1  // Assuming the GPS is connected to Serial1
+
+void setup() {
+    GPS_SERIAL.begin(9600);  // Start GPS serial communication
+    if (!display.begin(SSD1306_SWITCHCAPVCC, SCREEN_ADDRESS)) {
+        while (1);  // Loop forever if initialization fails
+    }
+    display.clearDisplay();
+    display.setTextSize(1);
+    display.setTextColor(WHITE);
+    display.setCursor(0, 0);
+    display.println("Initializing...");
+    display.display();
+}
+
+void loop() {
+    // Read from the GPS serial
+    while (GPS_SERIAL.available()) {
+        gps.encode(GPS_SERIAL.read());  // Feed data into TinyGPS++
+        
+        // Check if a new GPS fix is available
+        if (gps.location.isUpdated()) {
+            // Clear the display
+            display.clearDisplay();
+            display.setCursor(0, 0);
+
+            // Display the latitude and longitude
+            display.print("Latitude: ");
+            display.println(gps.location.lat(), 6);  // 6 decimal places
+            display.print("Longitude: ");
+            display.println(gps.location.lng(), 6);  // 6 decimal places
+            
+            // Update the display
+            display.display();
+        }
+    }
+}
+```
+
 5. Integrated the code with my teammate,[Tommy](https://github.com/Berkeley-MDes/tdf-fa24-TommyJing0/blob/main/Week%207.md#week-of-10142024)
 <img src="/Week7/IMG_2066.jpeg" width ="500" align="center">
 
