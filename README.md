@@ -14,6 +14,22 @@
 [week 7](README.md#Week-7)
 
 ---
+# Week 8
+## What I Did This Week
+1. Finalize the project 2 code and hardware with my teammate.
+<img src="/Week8/code.png" width ="500" align="center">
+2. Work on the video presentation of the project with my teammate.\
+[Final Video](https://www.youtube.com/watch?v=vDJQtb1WPWA)
+
+## What I Thought This Week
+1. Integrate microcontrollers to my next Studio Foundation project - a zen garden timer.
+2. Artist's work using microcontrollers that connect the physical and digital worlds. [Neil Mendoza](https://www.neilmendoza.com/)
+
+## Speculations
+1. Project builds up on this one - a wearable+detachable device that focuses on nighttime safety and navigation.
+2. Do more research on the GPS module.
+
+---
 # Week 7
 ## What I Did This Week
 
