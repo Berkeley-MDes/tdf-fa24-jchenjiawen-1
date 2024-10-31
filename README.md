@@ -18,27 +18,35 @@
 [week 9](README.md#Week-9)
 
 ---
-# Week 8
+# Week 9
 ## What I Did This Week
 ### Experiments on ZeroWidth
 1. Basic conversation, with a slider bar for temperature. It gives a result but has some errors. It appeared only once, so I suspect something was wrong on the ZeroWidth's end.
 <img src="/Week9/ex1-temp.png" width ="800" align="center">
-<img src="/Week9/ex1-error1.png" width ="800" align="center">
+<img src="/Week9/ex1-error.png" width ="800" align="center">
 <img src="/Week9/ex1-error2.png" width ="800" align="center">
 <img src="/Week9/ex1-2.png" width ="800" align="center">
-
+</br>
+</br>
+</br>
 2. Basic conversation with instruction. The answer seems okay, but not very evident that it's viewing from a designer's perspective.
 <img src="/Week9/ex2.png" width ="800" align="center">
 <img src="/Week9/ex2-2.png" width ="800" align="center">
-
+</br>
+</br>
+</br>
 3. Instruction + RAG. I imported the week 1-5 readings from the Design Frameworks class and hope the AI can answer my questions about them. Since there isn't a delimiter for chucking, I used auto chunking, which may affect the result.
 <img src="/Week9/knowledge.png" width ="800" align="center">
 <img src="/Week9/ex3.png" width ="800" align="center">
 <img src="/Week9/ex3-demo.png" width ="800" align="center">
-
+</br>
+</br>
+</br>
 4. I added a variable to the flow to reframe all the questions and focus on history. It successfully did so, but the answer seems not so relevant to history.
 <img src="/Week9/ex4.png" width ="800" align="center">
-
+</br>
+</br>
+</br>
 ## Speculations
 1. The idea of my final project.
 2. Can I make a ChatBot for easier citation/bibliography?
@@ -50,6 +58,7 @@
 <img src="/Week8/code.png" width ="500" align="center">
 2. Work on the video presentation of the project with my teammate.\
 [Final Video](https://www.youtube.com/watch?v=vDJQtb1WPWA)
+
 
 ## What I Thought This Week
 1. Integrate microcontrollers to my next Studio Foundation project - a zen garden timer.
