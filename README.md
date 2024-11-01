@@ -49,6 +49,8 @@
 </br>
 ## Speculations
 1. The idea of my final project.
+<img src="/Week9/IMG_2158.jpeg" width ="800" align="center">
+
 2. Can I make a ChatBot for easier citation/bibliography?
 
 ---
