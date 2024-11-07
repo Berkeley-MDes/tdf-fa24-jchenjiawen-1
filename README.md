@@ -17,6 +17,26 @@
 
 [week 9](README.md#Week-9)
 
+[week 10](README.md#Week-10)
+
+---
+# Week 10
+## What I Did This Week
+### Citation Machine made with ZeroWidth
+<img src="/Week10/TDF P.jpg" width ="800" align="center">
+<img src="/Week10/01.png" width ="800" align="center">
+<img src="/Week10/02.png" width ="800" align="center">
+<img src="/Week10/03.png" width ="800" align="center">
+
+### Video of Project 3
+[Video Link](https://youtu.be/uDnWcxKuUsw)
+
+## What I Thought This Week
+When I was applying for various opportunities, sometimes I was asked to write short essays with prompts. Those Prompts are basically behavior questions, for example, share some experience where you solved conflicts with emotional intelligence. I feel I had to write similar things over and over again, just making tweaks based on the prompts. So I quickly tried to put all my previous essays and cover letters into Knowledge, hoping the LLM could write the essays with my real past experience. It works but not very well. I wonder if there are better settings to achieve it.
+
+## Speculations
+Heading to project 4, I'm doing more research on buying the right material and components.
+
 ---
 # Week 9
 ## What I Did This Week
