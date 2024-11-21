@@ -19,6 +19,16 @@
 
 [week 10](README.md#Week-10)
 
+[week 11](README.md#Week-11)
+
+[week 12](README.md#Week-12)
+
+---
+# Week 12
+
+---
+# Week 11
+
 ---
 # Week 10
 ## What I Did This Week
