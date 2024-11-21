@@ -25,9 +25,33 @@
 
 ---
 # Week 12
+## What I Did This Week
+As part of the assignment, I made a proposal poster for the in-class pinup.
+<img src="/Week12/proposal.jpg" width ="800" align="center">
+
+I developed a written format proposal with diagrams.
+<img src="/Week12/process.jpg" width ="800" align="center">
+<img src="/Week12/system.jpg" width ="800" align="center">
+
+## What I Thought This Week
+Some of the components arrived and I need to start learning & testing each of them, before wire things up.
+
+## Speculations
+To control the fabrication cost, I decided to visit local thrift stores during the weekend, hopefully I can find useful materials.
 
 ---
 # Week 11
+## What I Did This Week
+Exploring my final project idea, started modeling in Rhino.
+<img src="/Week11/Rhino.jpg" width ="800" align="center">
+
+## What I Thought This Week
+Research on material and fabrication. Made a shopping list and started collecting the components.
+Because of practical reasons(weight of the sand, size of the laser cutter, etc.), I revised the design accordingly.
+<img src="/Week11/List.jpg" width ="800" align="center">
+
+## Speculations
+I will make a timeline and plan for my final project.
 
 ---
 # Week 10
