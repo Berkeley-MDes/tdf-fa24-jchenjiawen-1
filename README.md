@@ -38,6 +38,8 @@ Some of the components arrived and I need to start learning & testing each of th
 
 ## Speculations
 To control the fabrication cost, I decided to visit local thrift stores during the weekend, hopefully I can find useful materials.
+</br>
+</br>
 
 ---
 # Week 11
@@ -52,6 +54,8 @@ Because of practical reasons(weight of the sand, size of the laser cutter, etc.)
 
 ## Speculations
 I will make a timeline and plan for my final project.
+</br>
+</br>
 
 ---
 # Week 10
