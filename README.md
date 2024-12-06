@@ -25,6 +25,40 @@
 
 [week 14](README.md#Week-14)
 
+
+---
+# Week 14
+## What I Did This Week (+Thanksgiving Week)
+1. Wrote and test the code with Photon separately to control the components, including the proximity sensor, numeric display, TFT display+API+QR Code.
+<img src="/Week14/proximity.jpg" width ="800" align="center">
+<img src="/Week14/display.jpg" width ="800" align="center">
+<img src="/Week14/qrcode.jpg" width ="800" align="center">
+<img src="/Week14/proximity.jpg" width ="800" align="center">
+
+2. Tested the API with Particle Cloud.
+<img src="/Week14/api.png" width ="800" align="center">
+<img src="/Week14/api2.png" width ="800" align="center">
+
+3. Wrote and tested the code in Processing, to pull and display the latest posts on Instagram with the hashtag Zen.
+<img src="/Week14/p1.png" width ="800" align="center">
+<img src="/Week14/p2.png" width ="800" align="center">
+
+4. Set the vibration motor with a relay, to be controlled by the Photon.
+<img src="/Week14/motors.jpg" width ="800" align="center">
+<img src="/Week14/relay.jpg" width ="800" align="center">
+
+5. Tested the sand + vibration motor in a cardboard box. Used the thermal vacuum machine from the CED to improve the shaking effect.
+<img src="/Week14/sandbox.jpg" width ="800" align="center">
+<img src="/Week14/vacuum.jpg" width ="800" align="center">
+<img src="/Week14/shake.jpg" width ="800" align="center">
+
+## Speculations
+1. Finish modeling in Rhino.
+2. Finish laser cutting over the weekend.
+3. Draw a clear diagram of how to wire the components onto the physical mock-up.
+4. Compile the code.
+5. Start editing the video.
+
 ---
 # Week 12
 ## What I Did This Week
