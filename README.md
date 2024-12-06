@@ -53,11 +53,7 @@
 <img src="/Week14/shake.jpg" width ="800" align="center">
 
 ## Speculations
-1. Finish modeling in Rhino.
-2. Finish laser cutting over the weekend.
-3. Draw a clear diagram of how to wire the components onto the physical mock-up.
-4. Compile the code.
-5. Start editing the video.
+Next week, my plan is to finalize the modeling in Rhino and complete the laser cutting over the weekend to prepare the physical components. Once the pieces are ready, I’ll draw a clear wiring diagram to map out how the components will be connected on the physical mock-up. Alongside this, I’ll work on compiling the code needed for the project to ensure everything functions as intended. To wrap up the week, I’ll start editing the video documentation, capturing the process and progress made so far.
 
 ---
 # Week 12
