@@ -23,6 +23,8 @@
 
 [week 12](README.md#Week-12)
 
+[week 14](README.md#Week-14)
+
 ---
 # Week 12
 ## What I Did This Week
@@ -33,27 +35,24 @@ I developed a written format proposal with diagrams.
 <img src="/Week12/process.jpg" width ="800" align="center">
 <img src="/Week12/system.jpg" width ="800" align="center">
 
-## What I Thought This Week
-Some of the components arrived and I need to start learning & testing each of them, before wire things up.
 
 ## Speculations
-To control the fabrication cost, I decided to visit local thrift stores during the weekend, hopefully I can find useful materials.
+Some of the components I ordered have arrived, so it’s time to start learning how to use them and testing their functionality individually before wiring everything together. This step is crucial to ensure everything works as expected and to troubleshoot any issues early on. To keep fabrication costs under control, I’ve also decided to explore local thrift stores this weekend. I’m hoping to find materials that could be repurposed for the project, which not only helps reduce costs but also adds a sustainable and creative element to the design process.
 </br>
 </br>
 
 ---
 # Week 11
 ## What I Did This Week
-Exploring my final project idea, started modeling in Rhino.
+I’ve started exploring my final project idea by modeling and testing in Rhino. This helps me work through the design and refine the concept as I go.
 <img src="/Week11/Rhino.png" width ="800" align="center">
 
-## What I Thought This Week
-Research on material and fabrication. Made a shopping list and started collecting the components.
+I researched on material and fabrication. Made a shopping list and started collecting the components.
 Because of practical reasons(weight of the sand, size of the laser cutter, etc.), I revised the design accordingly.
 <img src="/Week11/List.png" width ="800" align="center">
 
 ## Speculations
-I will make a timeline and plan for my final project.
+As I move forward with my final project, I will create a detailed timeline and comprehensive plan to guide the process. This will include setting clear milestones, allocating time for research, design, prototyping, and testing phases, and identifying potential challenges and solutions.
 </br>
 </br>
 
@@ -73,7 +72,7 @@ I will make a timeline and plan for my final project.
 When I was applying for various opportunities, sometimes I was asked to write short essays with prompts. Those Prompts are basically behavior questions, for example, share some experience where you solved conflicts with emotional intelligence. I feel I had to write similar things over and over again, just making tweaks based on the prompts. So I quickly tried to put all my previous essays and cover letters into Knowledge, hoping the LLM could write the essays with my real past experience. It works but not very well. I wonder if there are better settings to achieve it.
 
 ## Speculations
-Heading to project 4, I'm doing more research on buying the right material and components.
+As I move forward with Project 4, I plan to dedicate more time to thoroughly researching and selecting the most suitable materials and components to ensure the project's success. In addition to this, I need to explore potential APIs that could support my concept, analyzing their functionalities and compatibility with my requirements. To validate these choices, I will conduct preliminary tests to identify any challenges early in the process and refine my approach accordingly. This preparation phase will lay a solid foundation for the project, enabling smoother development and implementation.
 
 ---
 # Week 9
@@ -106,10 +105,10 @@ Heading to project 4, I'm doing more research on buying the right material and c
 </br>
 </br>
 ## Speculations
-1. The idea of my final project.
+1. I came up with the idea of my final project. Next, I will do more research on the components and technology I need.
 <img src="/Week9/IMG_2158.jpeg" width ="800" align="center">
 
-2. Can I make a ChatBot for easier citation/bibliography?
+2. While learning ZeroWidth, I wonder if can I make a ChatBot for easier citation/bibliography. I will take a deeper look into that.
 
 ---
 # Week 8
@@ -126,7 +125,7 @@ Heading to project 4, I'm doing more research on buying the right material and c
 
 ## Speculations
 1. Project builds up on this one - a wearable+detachable device that focuses on nighttime safety and navigation.
-2. Do more research on the GPS module.
+2. Do more research on the GPS module, and ideate more using scenarios with the GPS module.
 
 ---
 # Week 7
